@@ -1,0 +1,86 @@
+﻿1.  Use chatGPT to summarize a 3 paragraph news article about IPL cricket into  a single short paragraph, then copy  both  the original and summary into a file.
+
+
+      1 Title: Indian Premier League (IPL)
+      Paragraph: 
+ The Indian Premier League (IPL) is one of the most popular cricket tournaments in the world. It        was started in 2008 by the Board of Control for Cricket in India (BCCI). The league follows the Twenty20 format, making matches fast and exciting. Teams from different Indian cities compete against each other every season. The IPL features some of the best cricketers from India and around the world. Millions of fans watch the matches in stadiums and on television. The tournament provides young players with a platform to showcase their talent. It also contributes significantly to the growth of cricket and the economy. The IPL is known for its thrilling finishes, big sixes, and strong team rivalries. Today, the IPL is considered one of the most successful and valuable sports leagues globally.
+Summary:
+The IPL is a popular Twenty20 cricket league started in 2008 by the BCCI. It features top players from around the world, provides opportunities for young talent, entertains millions of fans, and plays an important role in promoting cricket and contributing to the economy.                  
+  
+ 2 Title: Reasons for IPL's Success
+  Paragraph:
+ One of the key reasons behind the IPL's success is its fast-paced Twenty20 format, which delivers   exciting matches filled with big hits, dramatic finishes, and outstanding individual performances. The tournament also brings together some of the world's best cricketers, allowing fans to witness unique team combinations and fierce rivalries. Teams such as Mumbai Indians, Chennai Super Kings, and Royal Challengers Bengaluru have built massive fan bases due to their consistent performances and star-studded lineups.
+ Summary:
+The IPL is successful because of its exciting T20 format, world-class players, and intense team rivalries. These factors make the tournament highly entertaining and attract millions of fans.
+
+
+
+
+
+
+
+
+3 Title: Economic and Cultural Impact of IPL
+Paragraph:
+Beyond cricket, the IPL has had a significant economic and cultural impact. The league generates substantial revenue through sponsorships, broadcasting rights, and ticket sales while creating employment opportunities across various sectors. It has also helped popularize cricket among younger audiences and expanded the sport's reach internationally. As the tournament continues to evolve, the IPL remains a benchmark for franchise-based sports leagues and a celebration of cricketing excellence.
+Summary:
+The IPL has a major economic and cultural influence by generating revenue, creating jobs, and promoting cricket worldwide. It has increased the sport's popularity among young people and serves as a model for successful franchise-based leagues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.Generate an original  food dish image using DALL.E (or Bing image creator )with a prompt like ‘A futuristic gujarati thali  with neon colors.
